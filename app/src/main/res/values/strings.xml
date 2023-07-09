@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">10119110_MVP</string>
+    <string name="meter">Meter</string>
+    <string name="kilometer">Kilometer</string>
+    <string name="centimeter">Centimeter</string>
+</resources>
